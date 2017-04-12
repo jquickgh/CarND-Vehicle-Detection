@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 * Run your pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
 * Estimate a bounding box for vehicles detected.
 
-[Project Code](https://github.com/jquickgh/self-driving-car-engineer-nd/blob/master/p5-vehicle-detection-and-tracking/P5_Final.ipynb)
+[Project Code](https://github.com/jquickgh/CarND-Vehicle-Detection/blob/master/P5_Final.ipynb)
 
 [Project Video](https://www.youtube.com/watch?v=7h1iv-9sqys)
 
