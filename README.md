@@ -5,7 +5,7 @@ Created a vehicle detection and tracking pipeline with OpenCV, histogram of orie
 
 [//]: # (Image References)
 
-[im01]: ./examples/test1017x.jpg "Vehicle Detection"
+[im01]: ./test1017x_5.jpg "Vehicle Detection"
 
 ![alt text][im01]
 
