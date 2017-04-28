@@ -38,7 +38,7 @@ Built Computer Vision software pipeline with Color and Perspective Transforms to
 
 [im02]: ./test1017x_4.jpg "Advanced Lane Finding"
 
-![alt text][im01]
+![alt text][im02]
 
 The Project
 ---
