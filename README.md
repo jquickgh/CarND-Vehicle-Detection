@@ -36,7 +36,7 @@ Built Computer Vision software pipeline with Color and Perspective Transforms to
 
 [//]: # (Image References)
 
-[im01]: ./test1017x_4.jpg "Advanced Lane Finding"
+[im02]: ./test1017x_4.jpg "Advanced Lane Finding"
 
 ![alt text][im01]
 
