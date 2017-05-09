@@ -1,6 +1,16 @@
 # Part 1: Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+[Project Code](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/P4_Final.ipynb)
+
+[Foggy Night](https://youtu.be/52CN__qzXDM)
+
+[Project Video](https://youtu.be/b2WBX3jGyy4)
+
+[Challenge Video](https://youtu.be/W-ZhO3uXfJs)
+
+[Project Writeup](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/README.ipynb)
+
 Built Computer Vision software pipeline with Color and Perspective Transforms to identify lane boundaries in a video stream.
 
 [//]: # (Image References)
@@ -23,18 +33,14 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-[Project Code](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/P4_Final.ipynb)
-
-[Foggy Night](https://youtu.be/52CN__qzXDM)
-
-[Project Video](https://youtu.be/b2WBX3jGyy4)
-
-[Challenge Video](https://youtu.be/W-ZhO3uXfJs)
-
-[Project Writeup](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/README.ipynb)
-
 # Part 2: Vehicle Detection and Tracking
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+[Project Code](https://github.com/jquickgh/CarND-Vehicle-Detection/blob/master/P5_Final.ipynb)
+
+[Project Video](https://www.youtube.com/watch?v=7h1iv-9sqys)
+
+[Project Writeup](https://github.com/jquickgh/self-driving-car-engineer-nd/blob/master/p5-vehicle-detection-and-tracking/README.ipynb)
 
 Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Optimized and evaluated the model on video data from a automotive camera taken during highway driving.
 
@@ -56,8 +62,4 @@ The goals / steps of this project are the following:
 * Run software pipeline on a video stream and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
 * Estimate a bounding box for vehicles detected.
 
-[Project Code](https://github.com/jquickgh/CarND-Vehicle-Detection/blob/master/P5_Final.ipynb)
 
-[Project Video](https://www.youtube.com/watch?v=7h1iv-9sqys)
-
-[Project Writeup](https://github.com/jquickgh/self-driving-car-engineer-nd/blob/master/p5-vehicle-detection-and-tracking/README.ipynb)
