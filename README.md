@@ -28,11 +28,7 @@ The goals / steps of this project are the following:
 # Part 2: Vehicle Detection and Tracking
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-[Project Code](https://github.com/jquickgh/CarND-Vehicle-Detection/blob/master/P5_Final.ipynb)
-
-[Project Video](https://www.youtube.com/watch?v=7h1iv-9sqys)
-
-[Project Writeup](https://github.com/jquickgh/self-driving-car-engineer-nd/blob/master/p5-vehicle-detection-and-tracking/README.ipynb)
+[Project Code](https://github.com/jquickgh/CarND-Vehicle-Detection/blob/master/P5_Final.ipynb)  |  [Project Writeup](https://github.com/jquickgh/self-driving-car-engineer-nd/blob/master/p5-vehicle-detection-and-tracking/README.ipynb)  |  [Project Video](https://www.youtube.com/watch?v=7h1iv-9sqys)
 
 Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Optimized and evaluated the model on video data from a automotive camera taken during highway driving.
 
