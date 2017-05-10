@@ -1,7 +1,7 @@
 # Part 1: Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-[Project Code](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/P4_Final.ipynb)  [Foggy Night](https://youtu.be/52CN__qzXDM)  [Project Video](https://youtu.be/b2WBX3jGyy4)  [Challenge Video](https://youtu.be/W-ZhO3uXfJs)  [Project Writeup](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/README.ipynb)
+[Project Code](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/P4_Final.ipynb) / [Foggy Night](https://youtu.be/52CN__qzXDM) / [Project Video](https://youtu.be/b2WBX3jGyy4) / [Challenge Video](https://youtu.be/W-ZhO3uXfJs) / [Project Writeup](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/README.ipynb)
 
 Built Computer Vision software pipeline with Color and Perspective Transforms to identify lane boundaries in a video stream.
 
